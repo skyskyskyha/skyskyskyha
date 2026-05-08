@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @skyskyskyha
-- 👀 I’m interested in programming, board games and sport.
+- 👀 I’m interested in programming, computer games, and table tennis.
 - 🌱 I’m currently learning computer science
-- 📫 How to reach me skyskyha@umich.edu  
+- 📫 How to reach me skyskyskyha@gmail.com
 
 
 http://skyskyskyha.github.io/  
-A special website I made for hearthstone player
+A website I made for Hearthstone players
 
 https://skyskyskyha.github.io/games/  
-Some small indie games developed by myself or the lambda/pumba studio (https://494showcase.com/)
+Some small indie games developed by the Lambda Studio or me 
 
 
